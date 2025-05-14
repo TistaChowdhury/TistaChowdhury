@@ -8,7 +8,7 @@
 🔭 I’m currently working on **AI Doctor with Voice and Vision**  
 🌱 I’m learning **Generative AI, Java Programming**  
 💬 Ask me about **Python, Java, Web Dev, Generative AI**  
-📫 Reach me at: tistacho.slsn11abcd2gmail.com@gmail.com  
+📫 Reach me at: tistacho.slsn11abcd@gmail.com 
 📁 Check out my [Portfolio Projects](https://github.com/TistaChowdhury?tab=repositories)
 
 ---
@@ -48,8 +48,8 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tistacho.slsn11abcd2gmail.com@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tista-chowdhury/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tistacho.slsn11abcd@gmail.com)
 
 ---
 
